@@ -1,0 +1,9 @@
+{
+  "name": "roblox-analytics-receiver",
+  "version": "1.0.0",
+  "description": "A Vercel serverless function to receive analytics from Roblox.",
+  "main": "index.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.3"
+  }
+}
